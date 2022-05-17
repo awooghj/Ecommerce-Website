@@ -8,7 +8,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 <!-- Horizontal Rule -->
 ---
 
-## Functions
+## User Stories
 
 - Selling items on shop page could be added to the shopping cart by any random visitors, but payments are not made unless logging in
 - The users can register an account to be a member of this shopping website
