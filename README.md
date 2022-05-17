@@ -17,41 +17,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - The picture, title, summary, and price of a product could be modified by administrators
 - Administrators are able to remove or add new product to the shop
 - Users will make their payment via Strpie checkout API
-## Installing project
+## How to Start Project
 
 <!-- Code Blocks -->
-### Step 1:
 
-In terminal, first you could go to directory **mern** by calling
-```bash
-  cd mern
-  npm install
-```
-to install libraries for Node.js. 
-
-### Step 2: 
-
-After installing, call
-```bash
-  cd typing-login-mix
-```
-and again install required libraries for React by calling
-```bash
-  npm install
-```
-
-### Step 3: 
-
-After intaling, first call 
+In terminal, type
 ```bash
   npm start
 ```
-in directory **mern**, and then
-```bash
-  cd typing-login-mix
-  npm start
-```
-to start frontend
+to start running server locally 
+
 
 ## Demo
 
