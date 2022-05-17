@@ -9,12 +9,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ---
 
 ## Functions
+
+- Selling items on shop page could be added to the shopping cart by any random visitors, but payments are not made unless logging in
 - The users can register an account to be a member of this shopping website
-- There are two user classes-one is normal user, the other one is adminstrator
-- The administrator account can manage the accounts of the website such as deleting and upgrading accounts
-- Users who host the room game are able to start any time they want
-- Users will see the ranking and statistic after the game is over
-- The statistics of matches belonging to a user can be found at the "Matches" link, where the ranking, nickname, and word per minute (WPM) are preserved
+- Administrator role of the shopping website is manually granted by setting it in database
+- Administrators can manage the orders that are made by the customers and update the status of each order
+- The picture, title, summary, and price of a product could be modified by administrators
+- Administrators are able to remove or add new product to the shop
+- Users will make their payment via Strpie checkout API
 ## Installing project
 
 <!-- Code Blocks -->
